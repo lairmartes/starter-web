@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Jason Taylor   jason@git.training   @awesomejt
+	Lair Martes    lair@git.training    @incrediblelt
 
 # THANKS
 
